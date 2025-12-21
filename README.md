@@ -16,8 +16,6 @@
   </a>
 </p>
 
----
-
 ### About
 
 8+ years building integrated systems — from software architecture to user experience. I design systems that solve real problems, then build them to last.
