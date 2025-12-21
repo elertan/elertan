@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Dennis+Kievits;Senior+Software+Engineer" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Dennis Kievits</h1>
 
 <p align="center">
-  <em>Building systems that last. Architecture-focused. Efficiency-obsessed.</em>
+  <em>Architecture-focused. Efficiency-obsessed. Results-oriented.</em>
 </p>
 
 <p align="center">
@@ -15,7 +11,7 @@
   <a href="https://linkedin.com/in/denniskievits">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/153881219275292672">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -27,8 +23,6 @@
 8+ years building integrated systems — from software architecture to user experience. I design systems that solve real problems, then build them to last.
 
 Currently focused on full-stack development with TypeScript, Rust, and modern frameworks.
-
----
 
 ### Tech Stack
 
@@ -49,8 +43,6 @@ Currently focused on full-stack development with TypeScript, Rust, and modern fr
     <img src="https://skillicons.dev/icons?i=docker,postgres,linux,githubactions,dotnet&theme=dark" alt="Tools" />
   </a>
 </p>
-
----
 
 ### GitHub Stats
 
