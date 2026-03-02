@@ -18,11 +18,11 @@
 
 ### About
 
-8+ years building integrated systems — from software architecture to user experience. I design systems that solve real problems, then build them to last.
+8+ years building integrated systems, from software architecture to user experience. I design systems that solve real problems, then build them to last.
 
 Currently focused on full-stack development with TypeScript, Rust, and modern frameworks.
 
-### Tech Stack
+### Stuff I like using
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,19 +40,4 @@ Currently focused on full-stack development with TypeScript, Rust, and modern fr
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,postgres,linux,githubactions,dotnet&theme=dark" alt="Tools" />
   </a>
-</p>
-
-### GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elertan&show_icons=true&theme=transparent&title_color=2DD4BF&icon_color=2DD4BF&text_color=94a3b8&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elertan&show_icons=true&theme=default&title_color=0d9488&icon_color=0d9488&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=elertan&show_icons=true&theme=transparent&title_color=2DD4BF&icon_color=2DD4BF&text_color=94a3b8&hide_border=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elertan&layout=compact&theme=transparent&title_color=2DD4BF&text_color=94a3b8&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elertan&layout=compact&theme=default&title_color=0d9488&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elertan&layout=compact&theme=transparent&title_color=2DD4BF&text_color=94a3b8&hide_border=true" alt="Top Languages" />
-  </picture>
 </p>
