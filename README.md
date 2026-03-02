@@ -1,7 +1,7 @@
 <h1 align="center">Dennis Kievits</h1>
 
 <p align="center">
-  <em>Architecture-focused. Efficiency-obsessed. Results-oriented.</em>
+  <b>Architecture-focused. Efficiency-obsessed. Results-oriented.</b>
 </p>
 
 <p align="center">
