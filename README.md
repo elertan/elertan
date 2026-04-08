@@ -18,7 +18,7 @@
 
 ### About
 
-8+ years building integrated systems, from software architecture to user experience. I design systems that solve real problems, then build them to last.
+I design systems that solve real problems, then build them to last.
 
 Currently focused on full-stack development with TypeScript, Rust, and modern frameworks.
 
