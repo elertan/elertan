@@ -41,3 +41,8 @@ Currently focused on full-stack development with TypeScript, Rust, and modern fr
     <img src="https://skillicons.dev/icons?i=docker,postgres,linux,githubactions,dotnet&theme=dark" alt="Tools" />
   </a>
 </p>
+
+
+### Like what I'm doing?
+
+<a href="https://buymeacoffee.com/elertan">Buy me a coffee!</a>
